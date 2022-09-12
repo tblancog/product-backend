@@ -1,4 +1,3 @@
-const fastify = require("fastify");
 require("dotenv").config();
 
 // connect database
